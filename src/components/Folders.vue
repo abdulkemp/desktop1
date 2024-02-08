@@ -7,7 +7,7 @@
                         <div class="forms" style="height: 5rem">
                             <button type="button" data-bs-toggle="modal" data-bs-target="#googlerep">
                                 <div class="folder">
-                                    <img src="https://i.postimg.cc/k5V07PHW/pngegg-5.png" alt="" />
+                                    <img src="https://i.postimg.cc/0yFSKngd/37aunh3iv2spervrespi7467bj-3002148310c55d13ff425c67c23044b9.png" alt="" />
                                 </div>
                                 <div class="text">
                                     <p>Recycle Bin</p>
@@ -41,7 +41,7 @@
                     <div class="fold justify-content-start">
                         <div class="forms" style="height: 5rem">
                             <div class="folder">
-                                <img src="https://i.postimg.cc/T3H883tR/pngegg-6.png" alt="" />
+                                <img src="https://i.ibb.co/0f4RnXY/bash-git-computer-icons-installation-command-line-interface-github-1c3f05273ae987473fd31e106665db03.png" alt="" />
                             </div>
                             <div class="text">
                                 <p>Git Bash</p>
